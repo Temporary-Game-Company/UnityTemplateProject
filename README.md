@@ -10,4 +10,4 @@
 6. **Document your code**
 
 # Folder Structure Description
-![A chart describing some folders.](Images/Folders.webp "Folders")
+![A chart describing some folders.](Assets/PROJECT_NAME/Docs/Images/Folders.webp "Folders")
